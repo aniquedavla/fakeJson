@@ -1,1 +1,18 @@
-{}
+{
+    "id": "recgLF5lUXTbjTGLG",
+    "fields": {
+        "School Name": "San Jose State University",
+        "Comments": "Has an amazing prayer space.",
+        "Has prayer space": true,
+        "Rate prayer space": 3,
+        "Has washing facility(wudu area)": true,
+        "Rate washing facility(wudu area)": 5,
+        "Rate hijab friendliness": 5,
+        "Rate beard friendliness": 5,
+        "Rate flexibility around Muslim holidays/celebrations": 4,
+        "Rate Muslim presence on this campus": 4,
+        "Rate Muslim student leadership on campus": 3,
+        "Rate Muslim staff presence on campus": 3
+    },
+    "createdTime": "2020-12-26T01:22:39.000Z"
+}
